@@ -1,0 +1,2 @@
+maximum diversity and solutions: 2.2072346889837697, [[array([102, 354, 467, 473])]] 
+
